@@ -1,6 +1,6 @@
-# Read two numbers from the user
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+# Fixed numbers
+a = 12
+b = 8
 
 # Add them
 sum_result = a + b
